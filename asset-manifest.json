@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DetectScreenSize/static/css/main.fca3ea98.css",
+    "main.js": "/DetectScreenSize/static/js/main.1deacbb7.js",
+    "static/js/453.16dabbe4.chunk.js": "/DetectScreenSize/static/js/453.16dabbe4.chunk.js",
+    "index.html": "/DetectScreenSize/index.html",
+    "main.fca3ea98.css.map": "/DetectScreenSize/static/css/main.fca3ea98.css.map",
+    "main.1deacbb7.js.map": "/DetectScreenSize/static/js/main.1deacbb7.js.map",
+    "453.16dabbe4.chunk.js.map": "/DetectScreenSize/static/js/453.16dabbe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca3ea98.css",
+    "static/js/main.1deacbb7.js"
+  ]
+}
